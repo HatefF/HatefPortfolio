@@ -1,6 +1,5 @@
 % Hatef Fakoor
-% CDS130-DL2
-% ICE Week 12 Problem ICE12B
+% ICE12B
 
 clear;clc
 
