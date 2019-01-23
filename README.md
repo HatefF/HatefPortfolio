@@ -1,2 +1,2 @@
-# comp-data-sci
-A suite of Science Technology Engineering &amp; Mathematics problems solved and visualized in Matlab.
+# HatefPortfolio
+A suite of Science, Technology, Engineering, &amp; Mathematics problems, &amp; side projects solved and visualized in Matlab and Python.
