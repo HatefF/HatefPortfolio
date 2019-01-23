@@ -1,5 +1,5 @@
 % Hatef Fakoor
-% ICE12B
+% Chemical Decay -- Scientific Modeling
 
 clear;clc
 
