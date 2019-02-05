@@ -1,5 +1,5 @@
 % Hatef Fakoor
-% Chemical Decay -- Scientific Modeling Example
+% Chemical Decay -- Scientific Modeling Example with example screenshot.
 
 clear;clc
 
