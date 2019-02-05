@@ -1,4 +1,5 @@
 # SpaceBound by Hatef/Written in Python 3.7.2
+# 2D space-style shooter developed in Python with example screenshot.
 
 # Import the Winsound module
 import winsound
