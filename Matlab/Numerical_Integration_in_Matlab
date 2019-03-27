@@ -1,0 +1,16 @@
+xL = 3.0;                            %x, left limit
+xR = 6.0;                            %x, right limit
+
+panels = 500;                        %number of panels
+deltax = (xR-xL)/panels;             %panel width
+h = deltax;                          %height, h
+total_area = 0.0;                    %total area
+
+for x = xL:h:(xR-h)                  %begin integration
+   b1 = sin(x^3) + log(x);           %base 1
+   b2 = sin((x+h)^3) + log(x+h);     %base 2
+   area = 0.5*h*(b1+b2);             %panel area
+   total_area = total_area + area;   %add panel area to
+end                                  %total area
+
+total_area                           %report total area
