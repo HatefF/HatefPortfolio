@@ -1,5 +1,5 @@
 % Hatef Fakoor
-% Chemical Decay -- Scientific Modeling Example with example screenshot.
+% Chemical Decay -- Scientific Modeling Example
 
 clear;clc
 
@@ -22,7 +22,7 @@ end
 
 % Plot code:
 plot(1:length(A), A, '-or', 1:length(B), B, '-*g', 1:length(C), C, '-ob')
-title('Chemical Decay: ICE12B by Hatef Fakoor');
+title('Chemical Decay: by Hatef Fakoor');
 xlabel('Time (hours)');
 ylabel('Kilograms (per chemical)');
 legend('A','B','C');
